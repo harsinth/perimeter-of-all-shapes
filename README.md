@@ -1,1 +1,1 @@
-# perimeter-of-circle-and-triangle
+# perimeter-of-all-shapes
